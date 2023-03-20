@@ -9,9 +9,9 @@
             <br />
         </td>
         <td align="center" width="150px">
-            <a href="https://github.com/seunghee0518"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226090647-741c7bd8-4751-4e47-b032-b713c8b4e07f.png"/></a>
+            <a href="https://github.com/HipJaengYiCat"><img height="120px" width="120px" src="https://user-images.githubusercontent.com/69185594/226090647-741c7bd8-4751-4e47-b032-b713c8b4e07f.png"/></a>
             <br/>
-            <a href="https://github.com/seunghee0518"><strong>박승희</strong></a>
+            <a href="https://github.com/HipJaengYiCat"><strong>박승희</strong></a>
             <br />
         </td>
         <td align="center" width="150px">
